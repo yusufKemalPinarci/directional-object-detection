@@ -1,0 +1,13 @@
+path: C:\Users\ysfkm\Desktop\part3\
+names:
+  - vehicle
+  - plane
+  - bridge
+  - harbor
+  - ship
+
+nc: 5
+
+test: dataset\test\images
+train: dataset\train\images
+val: dataset\val\images
